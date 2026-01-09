@@ -18,7 +18,7 @@ Follow the steps below to set up the project. You will need to create the necess
 Clone the project source code to your local machine:
 
 ```bash
-git clone [https://github.com/LondheShubham153/django-notes-app.git](https://github.com/SIIM21-force/dockerized-django-notes-app.git)
+git clone <paste the cloning link here either in HTTPS or SSH>
 cd dockerized-django-notes-app
 ```
 
